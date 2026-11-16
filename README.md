@@ -49,19 +49,19 @@ Developed an IT security policy covering accounts, permissions and information h
 
 ## Screenshots
 
-Selected screenshots from the lab have been heavily redacted to remove account identifiers and environment details. Original screenshots and the full assignment report are intentionally not included.
+Three selected screenshots document the authentication setup and MFA verification in the educational lab. The full assignment report is not included.
 
 ### MFA verification
 
-![Redacted Microsoft Authenticator verification screen](screenshots/mfa-verification-redacted.png)
+![Microsoft Authenticator number-matching verification screen](screenshots/mfa-verification-original.png)
 
 ### Authentication configuration
 
-![Redacted MFA configuration screen](screenshots/mfa-configuration-redacted.png)
+![Conditional Access and MFA configuration screen](screenshots/mfa-configuration-original.png)
 
 ### Authentication methods
 
-![Redacted authentication methods screen](screenshots/authentication-methods-redacted.png)
+![Authentication methods configuration screen](screenshots/authentication-methods-original.png)
 
 ## Security Notes and Limitations
 
